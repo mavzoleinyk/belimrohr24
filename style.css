@@ -1,0 +1,13 @@
+/*
+Theme Name: b24
+*/
+
+/*Custom style from date 06.09.2022*/
+
+.section-prices .item__image{
+	overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
