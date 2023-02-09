@@ -11,3 +11,7 @@ Theme Name: b24
     align-items: center;
     justify-content: center;
 }
+.info__number.first{
+    font-size: 21px;
+    line-height: 1.2;
+}

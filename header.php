@@ -83,7 +83,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <img class="mob-hide" src="/wp-content/themes/b24/img/logo-belim-300x54.png" alt="Rohrreinigung in Berlin, Notdienst Rund um die Uhr - Belimrohr24.de">
                             <img class="desc-hide" src="/wp-content/themes/b24/img/bm24-logo-mob.png" alt="Rohrreinigung in Berlin, Notdienst Rund um die Uhr - Belimrohr24.de">
                         </a>
-                        <a href="tel:+493052014211" class="info__number first phone_trig">+49 305 201 42 11</a>
+                        <div class="header-cont">
+                            <a href="tel:+493052014211" class="info__number first phone_trig">+49 305 201 42 11</a>
+                            <a href="mailto:belimrohr24@gmail.com" class="info__number first phone_trig">belimrohr24@gmail.com</a>
+                        </div>
                         <div class="info">
                             <div class="info__number-block">
                                 <span class="info__notify">
