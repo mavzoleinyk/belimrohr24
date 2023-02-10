@@ -97,6 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <span class="uppercase">7:00 - 23:00</span>
                                 </span>
                                 <a href="tel:+493052014211" class="info__number second phone_trig">0 305 201 42 11</a>
+                                <a href="mailto:belimrohr24@gmail.com" class="info__number-mob">belimrohr24@gmail.com</a>
                             </div>
                             <a href="tel:+493052014211" class="get-order btn phone_trig">Jetzt Anrufen</a>
                         </div>

@@ -15,3 +15,19 @@ Theme Name: b24
     font-size: 21px;
     line-height: 1.2;
 }
+.info__number-mob{
+	display: none;
+}
+
+
+
+@media (max-width: 530px){
+	.info__number-block a{
+		font-size: 16px;
+		font-weight: 600;
+	}
+	.info__number-mob{
+		display: block;
+		font-family: Roboto,sans-serif;
+	}
+}
